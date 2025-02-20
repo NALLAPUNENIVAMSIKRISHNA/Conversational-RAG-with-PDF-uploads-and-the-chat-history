@@ -2,6 +2,8 @@
 
 This project builds a question-answering app using PDFs, Langchain, ChromaDB, and Gemma. Users upload PDFs, ask questions, and maintain chat history.
 
+Live Demo Video - https://drive.google.com/file/d/1_QjZfpFkHUq7Gw3yweFIDsGyCK2TVXqD/view?usp=sharing
+
 ## Features
 
 *   PDF upload & Q&A
